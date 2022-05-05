@@ -6,7 +6,7 @@ print("Anak pergi ke toko")
 print("Apakah ada susu mas?")
 
 # Percabangan
-totalsusu = 400
+totalsusu = 100
 jumlahtelur = 3000
 print(f"Jumlah susu adalah {totalsusu} botol")
 print(f"Jumlah telur adalah {jumlahtelur}")
