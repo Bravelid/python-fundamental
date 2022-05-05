@@ -1,3 +1,8 @@
+"""
+Simple loop program with for
+"""
+
+
 
 jumlahbuku = 10
 print("ibu berkata 'Baca Semua bukumu'")

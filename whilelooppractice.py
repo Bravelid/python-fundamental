@@ -1,3 +1,7 @@
+"""
+Simple loop program with while
+"""
+
 jumlahbuku = 1000
 print("ibu berkata 'Baca Semua bukumu'")
 jumlahbukudibaca = 0
