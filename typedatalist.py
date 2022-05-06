@@ -119,5 +119,5 @@ for i in range(0, len(bukubaru)):
 
 print("\nmembuat list baru dengan list comprehesion simple print")
 daftar_buku = ['1. Seven Habits', '2. Seven Deadly', '3. Return of Royal', "4. 4DX"]
-bukubaru = daftar_buku[0::2]
+bukubaru = daftar_buku[0::3]
 print(daftar_buku[0:2])
